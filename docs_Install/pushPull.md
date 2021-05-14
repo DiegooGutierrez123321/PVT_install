@@ -24,7 +24,7 @@ git commint -m "nuevas imagenes "
 
 ## Descargar al repositorio local de la rama "main" 
 ```sh
-git push origin main
+git pull origin main
 ```
 
    
@@ -40,7 +40,7 @@ git remote -v
 ```
 
 # _GENERANDO EL PULL_
-## Subiendo el archivo a la rama main del repositorio
+## Subiendo el archivo a la rama "main" del repositorio
 ```sh
 git pull origin main
 ``` 
