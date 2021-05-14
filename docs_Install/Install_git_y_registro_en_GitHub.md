@@ -1,11 +1,7 @@
 # INSTALACION DE GIT EN UBUNTU  Y CREACIÓN DE UNA CUENTA EN GITHUB
 ## Instalando GIT como un entorno de desarrollo
 ```sh
-apt-get install git
- ```
- ##### NOTA: Si no permite intalar, poner el comando "sudo" en modo privilegiado.
-```sh
-sudo apt install git
+sudo apt-get install git
  ```
 ## Verificamos si se instalo viendo la version
 ```sh
